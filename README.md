@@ -13,7 +13,7 @@ Where is Lydia? Last time I saw her she was talking to Mr. Wickham. Now I can on
 #### Solution:
 In this challenge, an image file `flower.jpg` was provided.
 
-I opened the image file in Notepad++. A hex editor would be good too. I scrolled down to the very end of the file to find a string "*LetsElopeTogether*". [See solution](1_01_Oh_my_nerves_CAPTURED/solution.png).
+I opened the image file in Notepad++. A hex editor would be good too. I scrolled down to the very end of the file to find a string "*LetsElopeTogether*". [See solution](1_01_Oh_my_nerves/solution.png).
 
 ### Music box -- CAPTURED
 
